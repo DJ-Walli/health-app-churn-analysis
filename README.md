@@ -22,7 +22,7 @@ Contains the full analysis, graphs, tables, and corporate-style recommendations.
 
 📊 Dataset: Not publicly included for privacy reasons (simulated data available upon request).
 
-📈 Dashboard: Coming Soon – Interactive Power BI dashboard with KPIs and churn segmentation.
+📈 Dashboard: Interactive Power BI dashboard with KPIs and churn segmentation.
 
 📜 My Project Journey
 Topic Selection – Chose "Root Cause Analysis of Churn in a Health Subscription App" for my portfolio.
